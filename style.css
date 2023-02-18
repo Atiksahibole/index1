@@ -3,4 +3,48 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
 }
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.form {
+    background-color: aliceblue;
+    border: 1px solid red;
+    width: 100%;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 20px 50px 20px 20px;
+    float: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.content{
+    color: red;
+}
+.input{
+    width: 100%;
+    padding: 5px 0px 5px 10px;
+    /* margin: 0px 10px; */
+}
+.footer{
+    position: absolute;
+    top: 747px;
+    right: 489px;
+    color: white;
+    padding: 10px 0px;
+}
+
+.thnk-page{
+  font-family:'Times New Roman', Times, serif;
+  font-size: larger;
+  background-color: cadetblue;
+    
+}
+
+
