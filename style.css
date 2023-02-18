@@ -40,11 +40,8 @@ h1{
     padding: 10px 0px;
 }
 
-.thnk-page{
-  font-family:'Times New Roman', Times, serif;
-  font-size: larger;
-  background-color: cadetblue;
-    
+.thnks{
+    background-color: blue;
+    color: aqua;
+    font-size: larger;
 }
-
-
